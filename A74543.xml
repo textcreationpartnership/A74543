@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for continuing the committee for the Army, and treasurers at warr.</title>
+            <title>Orders in Council. 1654-06-29.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74543</idno>
+            <idno type="STC">Thomason E1064_24</idno>
+            <idno type="STC">ESTC R210258</idno>
+            <idno type="EEBO-CITATION">99869073</idno>
+            <idno type="PROQUEST">99869073</idno>
+            <idno type="VID">169224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169224)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for continuing the committee for the Army, and treasurers at warr.</title>
+                  <title>Orders in Council. 1654-06-29.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>453-456 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to his Highness the Lord Protector,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCLIV [1654]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>The final leaf bears the order to print dated: Iune 29. 1654.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="453" facs="tcp:169224:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE For continuing the Committee for the Army, AND Treaſurers at Warr.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Ordained and Decla<g ref="char:EOLhyphen"/>red by His Highneſs the Lord Protector by and with the advice and con<g ref="char:EOLhyphen"/>ſent of his Council, That for the more effectual put<g ref="char:EOLhyphen"/>ting in execution of an Ordinance, Entituled, <hi>An Ordinance for an Aſſeſsment for ſix Moneths, from <hi>June</hi> the four and twentieth, one thouſand ſix hundred fifty and four, for maintenance of the Armies and Na<g ref="char:EOLhyphen"/>vies
+<pb n="454" facs="tcp:169224:2"/>
+                  <!-- PDF PAGE 50 -->
+of this Common-wealth, at the rate of one hun<g ref="char:EOLhyphen"/>dred and twenty thouſand pounds <hi>per menſem,</hi> for the firſt three moneths, and at the rate of ninety thouſand pounds <hi>per menſem,</hi> for the laſt three moneths thereof,</hi> and publiſhed in print the eighth of <hi>June,</hi> One thouſand ſix hundred fifty and four. And for the bringing in, directing, diſpoſing, receiving, &amp; iſſuing forth of the Moneys payable by virtue thereof, and of all other moneys which before the five and twentieth of <hi>December,</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty and four, ſhall be ap<g ref="char:EOLhyphen"/>pointed for or towards the maintenance of the Armies of this Common-wealth, The ſeverall and reſpective perſons, or any three of them named, and appointed to be a Com<g ref="char:EOLhyphen"/>mittee for the Army in an Ordinance, En<g ref="char:EOLhyphen"/>tituled, <hi>An Ordinance appointing a Committee for the Army, and Treaſurers at Warr,</hi> and publiſh<g ref="char:EOLhyphen"/>ed the eight and twentieth of <hi>January,</hi> one thouſand ſix hundred fifty and three; And the perſons named and appointed to be Trea<g ref="char:EOLhyphen"/>ſurers at Warr in the ſaid Ordinance, ſhall be, and are hereby authorized and continued to be a Committee for the Army and Treaſu<g ref="char:EOLhyphen"/>ers at War in their ſeveral Capacities reſpe<g ref="char:EOLhyphen"/>ctively. And be it Ordained, That all and every the Powers and Authorities, Rules and Directions which were by the Laſt recited Ordinance, or by any Act or Ordinance there<g ref="char:EOLhyphen"/>in mentioned, expreſſed to be given to the ſaid Committee for the Army, or Treaſurers at War, for the bringing in, receiving, diſpoſing and iſſuing forth of the Aſſeſsments and Mo<g ref="char:EOLhyphen"/>neys in that Ordinance mentioned, ſhall be, and are hereby given and continued to the Committee for the Army and Treaſurers at
+<pb n="455" facs="tcp:169224:2"/>
+               <!-- PDF PAGE 50 -->
+Warr reſpectively, for the bringing in, receiv<g ref="char:EOLhyphen"/>ing, diſpoſing, and iſſuing forth of the ſaid ſix Moneths Aſſeſsments, commencing the four and twentyeth of <hi>June,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and four, and other Moneys herein before mentioned to all intents and purpoſes. And the ſaid Committee for the Army and Treaſurers at War reſpectively, are hereby Authorized and required to obſerve and put the ſame in execution accordingly. And the ſeveral and reſpective Commiſſioners, Recei<g ref="char:EOLhyphen"/>vers General, Collectors, Sub-Collectors, and all other perſons who are or ſhall be in<g ref="char:EOLhyphen"/>truſted or imployed in the Aſſeſſing, Levying, Collecting, or Receiving of the ſaid ſix months Aſſeſsments, or any part thereof, ſhall ob<g ref="char:EOLhyphen"/>ſerve ſuch Orders and Directions as ſhall from time to time be made &amp; given forth by the Committee for the Army, or any three of them, in the due execution of the Powers and Truſt hereby continued and committed unto them.</p>
+            <p>And the reſpective Receivers General that are or ſhall be appointed to receive any part of the ſaid ſix Moneths Aſſeſsment, from the four and twentieth of <hi>June,</hi> one thouſand ſix hundred fifty and four, ſhall forthwith after the receipt thereof, tranſmit and pay, or cauſe to be paid, the Moneys by them ſo received to the ſaid Treaſurers at War, or where, or to whom the ſaid Treaſurers at War ſhall ap<g ref="char:EOLhyphen"/>point the ſame to be paid, and the receipt of the ſaid Treaſurers at War ſhall be to the re<g ref="char:EOLhyphen"/>ſpective Receivers General, and to all other perſons who ſhall by virtue of this Ordinance pay any Moneys unto them for the purpoſes aforeſaid, a ſufficient diſcharge, the Ordinance
+<pb n="456" facs="tcp:169224:3"/>
+               <!-- PDF PAGE 51 -->
+               <hi>For bringing the Publique Revenues of this Common-wealth into one Treaſury,</hi> or any thing therein contained to the contrary hereof, in any wiſe notwithſtanding.</p>
+            <p>And be it further Ordained, That the ſum of forty thouſand pounds a Moneth (out of each of the firſt three Moneths Aſſeſsment of one hundred and twenty thouſand pounds by the Moneth, from the four and twentyeth of <hi>June,</hi> one thouſand ſix hundred fifty and four, as aforeſaid, and the ſum of thirty thouſand pounds a Moneth out of the laſt three Moneths Aſſeſsment of ninety thouſand pounds by the Moneth, ſhall be ſet apart and applyed for, and to the uſe of the Navy, and the ſaid Committee for the Army are hereby authorized and required to iſſue out their war<g ref="char:EOLhyphen"/>rants to the Treaſurers at War from time to time for payment of the ſame to the Treaſu<g ref="char:EOLhyphen"/>er of the Navy accordingly.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Thurſday Iune 29. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, and His Council, that this Or<g ref="char:EOLhyphen"/>dinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, MDCLIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
